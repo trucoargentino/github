@@ -1,0 +1,10 @@
+git init
+
+git config --global user.name "usuarioDeGithub"
+
+git config --global user.email "emailDeGithub"
+
+git add . 
+
+git status
+
