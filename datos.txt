@@ -8,3 +8,10 @@ git add .
 
 git status
 
+git commit -m "primer copia v1.0"
+
+git branch -M main
+
+git remote add origin https://github.com/trucoargentino/github.git
+
+git push -u origin main
